@@ -1,2 +1,3 @@
 # name folder files command
-calc . - sh test.sh
+build . - sh build.sh ;; keep
+calc . - sh test.sh ;; after=build
